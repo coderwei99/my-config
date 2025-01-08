@@ -1,0 +1,14 @@
+[user]
+	name = coderwei
+	email = 916606569@qq.com
+
+[alias]
+    st = status
+    ad = add .
+    cmm = commit -m
+    co = checkout
+    br = branch
+    lg = log --oneline --graph --decorate
+    ps = push
+    pl = pull
+    r = remote
