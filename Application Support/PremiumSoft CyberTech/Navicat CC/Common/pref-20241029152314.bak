@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connpref</key>
+	<dict>
+		<key>0</key>
+		<dict>
+			<key>0</key>
+			<dict>
+				<key>MariaDB</key>
+				<dict/>
+				<key>MySQL</key>
+				<dict/>
+				<key>Oracle</key>
+				<dict/>
+				<key>PostgreSQL</key>
+				<dict/>
+				<key>SQL Server</key>
+				<dict/>
+				<key>SQLite</key>
+				<dict/>
+			</dict>
+		</dict>
+	</dict>
+	<key>servermonitorpref</key>
+	<dict/>
+</dict>
+</plist>

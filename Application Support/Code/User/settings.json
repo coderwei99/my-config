@@ -1,0 +1,196 @@
+{
+  "docthis.includeAuthorTag": true,
+  "docthis.authorName": "coderwei",
+  "docthis.includeDateTag": true,
+  "workbench.iconTheme": "catppuccin-latte",
+  "vetur.validation.template": false,
+  "explorer.confirmDelete": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "explorer.autoReveal": false,
+  "explorer.compactFolders": false,
+  "editor.tabSize": 2,
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "yoyo930021.vuter"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "terminal.integrated.gpuAcceleration": "off",
+  "vscode_vibrancy.opacity": -1,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "backgroundCover.opacity": 0,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.profiles.windows": {
+    "powershell.exe (migrated)": {
+      "path": "powershell.exe",
+      "args": []
+    }
+  },
+  "security.workspace.trust.untrustedFiles": "open",
+  "remote.SSH.remotePlatform": {
+    "47.97.42.105": "linux"
+  },
+  "vscode-cats.model": "hijiki",
+  "docthis.dateTagFormat": "yyyy/mm/dd",
+  "window.titleBarStyle": "custom",
+  "C_Cpp.updateChannel": "Insiders",
+  "leetcode.endpoint": "leetcode-cn",
+  "leetcode.workspaceFolder": "C:\\Users\\Administrator\\.leetcode",
+  "editor.inlineSuggest.enabled": true,
+  "leetcode.hint.configWebviewMarkdown": false,
+  "leetcode.hint.commentDescription": false,
+  "leetcode.defaultLanguage": "typescript",
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false,
+    "yaml": false,
+    "typescript": true
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "bracketPairColorizer.depreciation-notice": false,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "liveServer.settings.CustomBrowser": "chrome",
+  // "editor.fontFamily": "Input-Regular, Fira Code, monospace",
+  // ===
+  "editor.fontFamily": "'Input Regular', monospace",
+  // 终端字体，我这里是设置的Hasklug Nerd Font Mono，可根据实际安装的Nerd Font进行设置
+  "terminal.integrated.fontFamily": "Hasklug Nerd Font Mono",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "vue",
+  ],
+  "editor.smoothScrolling": true,
+  "workbench.list.smoothScrolling": true,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.stickyScroll.enabled": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "jest.autoRun": "off",
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "background.style": {
+    "background-color": "#000000",
+    "image": "",
+    "opacity": 0.91,
+    "size": "cover",
+    "position": "center",
+    "interval": 0
+  },
+  "background.useDefault": false,
+  "workbench.editor.showTabs": "single",
+  "editor.tokenColorCustomizations": {
+    "types": "#12cce0",
+  },
+  "eslint.codeAction.showDocumentation": {
+    "enable": true
+  },
+  "workbench.startupEditor": "none",
+  "terminal.integrated.scrollAnimation": true,
+  "sync.gist": "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",
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "git.confirmSync": false,
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.minimap.enabled": false,
+  "workbench.colorTheme": "Vitesse Dark Soft",
+  "workbench.colorCustomizations": {
+    "editor.selectionHighlightBackground": "#afafaf68",
+    "editor.selectionBackground": "#afafaf68"
+  },
+  "workbench.sideBar.location": "right",
+  "workbench.productIconTheme": "icons-carbon",
+  "window.commandCenter": false,
+  "prettier.printWidth": 120,
+  // "terminal.integrated.fontFamily": "monospace",
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.allowChords": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "extensions.autoUpdate": false,
+  "explorer.confirmPasteNative": false,
+  "workbench.tree.enableStickyScroll": true,
+  // 保存自动删除没有用到的导入
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "never",
+    "source.fixAll.eslint": "explicit",
+    // "source.organizeImports": "always"
+  },
+  "css.lint.unknownAtRules": "ignore",
+  "accessibility.signals.terminalQuickFix": {
+    "sound": "off"
+  },
+  "accessibility.signals.terminalCommandFailed": {
+    "sound": "off"
+  },
+  "git.autofetch": true,
+  "prettier.embeddedLanguageFormatting": "off",
+  "notebook.formatOnSave.enabled": true,
+  "git.ignoreRebaseWarning": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "typescript.format.semicolons": "insert",
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust-analyzer"
+  },
+  "vue.autoInsert.dotValue": true,
+  "codeium.enableCodeLens": false,
+  "notebook.defaultFormatter": "dbaeumer.vscode-eslint",
+  "cSpell.userWords": [
+    "hhmmss"
+  ],
+  "todohighlight.defaultStyle": {},
+  "todohighlight.exclude": [
+    "**/node_modules/**",
+    "**/bower_components/**",
+    "**/dist/**",
+    "**/build/**",
+    "**/.vscode/**",
+    "**/.github/**",
+    "**/_output/**",
+    "**/*.min.*",
+    "**/*.map",
+    "**/.next/**"
+  ],
+  "todohighlight.include": [
+    "**/*.js",
+    "**/*.jsx",
+    "**/*.ts",
+    "**/*.tsx",
+    "**/*.html",
+    "**/*.php",
+    "**/*.css",
+    "**/*.scss"
+  ],
+  "todohighlight.keywords": [],
+  "debug.onTaskErrors": "debugAnyway",
+  "editor.inlayHints.fontFamily": "FiraCode",
+  "editor.fontSize": 15,
+  "dart.flutterSdkPath": "/Users/coderwei/Desktop/tools/flutter",
+  "cmake.pinnedCommands": [
+    "workbench.action.tasks.configureTaskRunner",
+    "workbench.action.tasks.runTask"
+  ],
+}

@@ -1,0 +1,20 @@
+{
+	"Print to console": {
+		"prefix": "clog",
+		"body": [
+			"console.log('$1');",
+			"$2"
+		],
+		"description": "Log1 output to console"
+	},
+	"et": {
+		"prefix": "el-tabs",
+		"body": [
+			"<el-tabs value=\"poster_list\" type=\"border-card\">",
+			"  <el-tab-pane name=\"poster_list\" label=\"调货申请\">",
+			"    调货申请",
+			"  </el-tab-pane>",
+			"</el-tabs>"
+		]
+	}
+}

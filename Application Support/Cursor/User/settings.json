@@ -1,0 +1,269 @@
+{
+    "docthis.includeAuthorTag": true,
+    "docthis.authorName": "coderwei",
+    "docthis.includeDateTag": true,
+    "vetur.validation.template": false,
+    "explorer.confirmDelete": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "explorer.autoReveal": false,
+    "explorer.compactFolders": false,
+    "editor.tabSize": 2,
+    "editor.suggest.showSnippets": true,
+    "explorer.confirmDragAndDrop": false,
+    "terminal.integrated.gpuAcceleration": "off",
+    "vscode_vibrancy.opacity": -1,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "backgroundCover.opacity": 0,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.profiles.windows": {
+        "powershell.exe (migrated)": {
+            "path": "powershell.exe",
+            "args": []
+        }
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "remote.SSH.remotePlatform": {
+        "47.97.42.105": "linux"
+    },
+    "vscode-cats.model": "hijiki",
+    "docthis.dateTagFormat": "yyyy/mm/dd",
+    "window.titleBarStyle": "custom",
+    "C_Cpp.updateChannel": "Insiders",
+    "leetcode.endpoint": "leetcode-cn",
+    "leetcode.workspaceFolder": "C:\\Users\\Administrator\\.leetcode",
+    "editor.inlineSuggest.enabled": true,
+    "leetcode.hint.configWebviewMarkdown": false,
+    "leetcode.hint.commentDescription": false,
+    "leetcode.defaultLanguage": "typescript",
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "yaml": false,
+        "typescript": true
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "bracketPairColorizer.depreciation-notice": false,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "liveServer.settings.CustomBrowser": "chrome",
+    "editor.fontFamily": "'Input Regular', monospace",
+    "terminal.integrated.fontFamily": "Hasklug Nerd Font Mono",
+    "editor.smoothScrolling": true,
+    "workbench.list.smoothScrolling": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "line",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.stickyScroll.enabled": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "jest.autoRun": "off",
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "background.style": {
+        "background-color": "#000000",
+        "image": "",
+        "opacity": 0.91,
+        "size": "cover",
+        "position": "center",
+        "interval": 0
+    },
+    "background.useDefault": false,
+    "workbench.editor.showTabs": "single",
+    "editor.tokenColorCustomizations": {
+        "types": "#12cce0"
+    },
+    "eslint.codeAction.showDocumentation": {
+        "enable": true
+    },
+    "workbench.startupEditor": "none",
+    "terminal.integrated.scrollAnimation": true,
+    "sync.gist": "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",
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "git.confirmSync": false,
+    "liveServer.settings.donotVerifyTags": true,
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Vitesse Dark",
+    "workbench.colorCustomizations": {
+        "editor.selectionHighlightBackground": "#afafaf68",
+        "editor.selectionBackground": "#afafaf68"
+    },
+    "workbench.sideBar.location": "right",
+    "workbench.productIconTheme": "icons-carbon",
+    "window.commandCenter": false,
+    "prettier.printWidth": 120,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.allowChords": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "extensions.autoUpdate": false,
+    "explorer.confirmPasteNative": false,
+    "workbench.tree.enableStickyScroll": true,
+    "css.lint.unknownAtRules": "ignore",
+    "accessibility.signals.terminalQuickFix": {
+        "sound": "off"
+    },
+    "accessibility.signals.terminalCommandFailed": {
+        "sound": "off"
+    },
+    "git.autofetch": true,
+    "prettier.embeddedLanguageFormatting": "off",
+    "notebook.formatOnSave.enabled": true,
+    "git.ignoreRebaseWarning": true,
+    "typescript.format.semicolons": "insert",
+    "[rust]": {
+        "editor.defaultFormatter": "rust-lang.rust-analyzer"
+    },
+    "vue.autoInsert.dotValue": true,
+    "codeium.enableCodeLens": false,
+    "notebook.defaultFormatter": "dbaeumer.vscode-eslint",
+    "cSpell.userWords": [
+        "hhmmss"
+    ],
+    "todohighlight.defaultStyle": {},
+    "todohighlight.exclude": [
+        "**/node_modules/**",
+        "**/bower_components/**",
+        "**/dist/**",
+        "**/build/**",
+        "**/.vscode/**",
+        "**/.github/**",
+        "**/_output/**",
+        "**/*.min.*",
+        "**/*.map",
+        "**/.next/**"
+    ],
+    "todohighlight.include": [
+        "**/*.js",
+        "**/*.jsx",
+        "**/*.ts",
+        "**/*.tsx",
+        "**/*.html",
+        "**/*.php",
+        "**/*.css",
+        "**/*.scss"
+    ],
+    "todohighlight.keywords": [],
+    "debug.onTaskErrors": "debugAnyway",
+    "editor.inlayHints.fontFamily": "FiraCode",
+    "editor.fontSize": 14,
+    "cursor.cpp.disabledLanguages": [
+        "plaintext",
+        "markdown",
+        "scminput",
+        "yaml"
+    ],
+    "application.shellEnvironmentResolutionTimeout": 60,
+    "vue.server.hybridMode": false,
+    "workbench.iconTheme": "catppuccin-latte",
+    // Disable the default formatter, use eslint instead
+    "prettier.enable": false,
+    "editor.formatOnSave": true,
+    // Auto fix
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit",
+        "source.organizeImports": "never"
+    },
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "eslint.format.enable": true,
+    // Silent the stylistic rules in you IDE, but still auto fix them
+    "eslint.rules.customizations": [
+        {
+            "rule": "style/*",
+            "severity": "off",
+            "fixable": true
+        },
+        {
+            "rule": "format/*",
+            "severity": "off",
+            "fixable": true
+        },
+        {
+            "rule": "*-indent",
+            "severity": "off",
+            "fixable": true
+        },
+        {
+            "rule": "*-spacing",
+            "severity": "off",
+            "fixable": true
+        },
+        {
+            "rule": "*-spaces",
+            "severity": "off",
+            "fixable": true
+        },
+        {
+            "rule": "*-order",
+            "severity": "off",
+            "fixable": true
+        },
+        {
+            "rule": "*-dangle",
+            "severity": "off",
+            "fixable": true
+        },
+        {
+            "rule": "*-newline",
+            "severity": "off",
+            "fixable": true
+        },
+        {
+            "rule": "*quotes",
+            "severity": "off",
+            "fixable": true
+        },
+        {
+            "rule": "*semi",
+            "severity": "off",
+            "fixable": true
+        }
+    ],
+    // Enable eslint for all supported languages
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "vue",
+        "html",
+        "markdown",
+        "json",
+        "jsonc",
+        "yaml",
+        "toml",
+        "xml",
+        "gql",
+        "graphql",
+        "astro",
+        "svelte",
+        "css",
+        "less",
+        "scss",
+        "pcss",
+        "postcss"
+    ],
+    "[typescript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "[vue]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "typescript.tsdk": "node_modules/typescript/lib"
+}

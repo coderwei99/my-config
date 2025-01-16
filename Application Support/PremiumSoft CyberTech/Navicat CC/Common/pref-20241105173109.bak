@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectiontreepref</key>
+	<dict>
+		<key>expanssionstate</key>
+		<dict/>
+	</dict>
+	<key>connpref</key>
+	<dict>
+		<key>0</key>
+		<dict>
+			<key>0</key>
+			<dict>
+				<key>MySQL</key>
+				<dict>
+					<key>jiahe_test</key>
+					<dict>
+						<key></key>
+						<dict>
+							<key></key>
+							<dict>
+								<key>serverpref</key>
+								<dict/>
+							</dict>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>detailviewpref</key>
+	<dict>
+		<key>customizedcolumns</key>
+		<dict/>
+		<key>mainobjecttab</key>
+		<dict>
+			<key>Server_MYSQL</key>
+			<dict>
+				<key>colwidth</key>
+				<dict>
+					<key></key>
+					<integer>550</integer>
+				</dict>
+			</dict>
+			<key>Table_MYSQL</key>
+			<dict>
+				<key>colwidth</key>
+				<dict>
+					<key>Collation</key>
+					<integer>120</integer>
+					<key>Comment</key>
+					<integer>200</integer>
+					<key>Created Date</key>
+					<integer>150</integer>
+					<key>Data Length</key>
+					<integer>120</integer>
+					<key>Engine</key>
+					<integer>80</integer>
+					<key>Modified Date</key>
+					<integer>150</integer>
+					<key>Rows</key>
+					<integer>50</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>uri</key>
+	<dict>
+		<key>navicat</key>
+		<dict>
+			<key>DeviceUUID</key>
+			<string>4C45D9</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
